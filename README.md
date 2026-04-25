@@ -1,3 +1,20 @@
-# kupang-ai-toolkit-pro
-⭐ Star this repo if you like it
-💎 PRO version available (contact dev)
+# 🚀 Kupang AI Toolkit Pro
+
+AI-powered automation toolkit for Termux users.
+
+---
+
+## ⚡ Features
+
+- AI Content Generator
+- Device Scanner
+- File Organizer
+- PDF Report Export
+
+---
+
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
+python main.py
